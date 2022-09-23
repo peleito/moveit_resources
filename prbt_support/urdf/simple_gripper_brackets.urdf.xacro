@@ -79,7 +79,7 @@ limitations under the License.
           <geometry>
             <box size="${size_x} ${size_y} ${size_z}"/>
           </geometry>
-          <material name="dark_grey">
+          <material name="dark_grey_gripper">
             <color rgba="0.8 0.8 0.8 1"/>
           </material>
         </visual>
